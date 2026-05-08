@@ -1,4 +1,4 @@
-
+smart Addon for Bear for macOS - version history and reminders offers the most advanced Bear for macOS addon, with version history and reminders. Ideal for professionals.
 
 
 
